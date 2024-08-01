@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\onedrive\\desktop\\first.net\\webapplication1\\webapplication1\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063CDF40-5853-47A9-A0B3-F8BD76704438}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:09:33.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:06:11.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:39:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwCUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:35:37.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:34:52.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:31:07.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Admin\\Products.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Products.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Admin\\Products.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:25:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:28:03.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:52:56.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:28:36.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:29:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAYwPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T15:17:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:26:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:29:08.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T17:31:16.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\first.net\\WebApplication1\\WebApplication1\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAI0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:09:17.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
