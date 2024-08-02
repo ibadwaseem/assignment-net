@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using _2302b1TempEmbedding.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication1.Controllers
 {
     public class ProductController : Controller
     {
-        _// 2302b1dotnetContext db = new _2302b1dotnetContext();
-       // [Authorize]
+        // 2302b1dotnetContext db = new _2302b1dotnetContext();
+        private readonly _2302b1dotnetContext db;
+
+        [Authorize]
         public IActionResult Index()
         {
             return View(db.Products.ToList());
@@ -76,12 +79,6 @@ namespace WebApplication1.Controllers
             return RedirectToAction("Index");
 
         }
-
-
-
-
-
-
 
     }
 }

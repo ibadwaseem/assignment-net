@@ -1,5 +1,7 @@
+using _2302b1TempEmbedding.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Data.Entity;
 using System.Diagnostics;
 using WebApplication1.Models;
 

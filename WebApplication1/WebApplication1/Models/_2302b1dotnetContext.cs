@@ -68,5 +68,11 @@ public partial class _2302b1dotnetContext : DbContext
         OnModelCreatingPartial(modelBuilder);
     }
 
+    internal void SaveChanges()
+    {
+        throw new NotImplementedException();
+    }
+
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
+

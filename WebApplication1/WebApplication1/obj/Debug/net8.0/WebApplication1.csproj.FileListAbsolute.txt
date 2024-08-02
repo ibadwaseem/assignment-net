@@ -223,3 +223,15 @@ C:\Users\DELL\OneDrive\Desktop\first.net\WebApplication1\WebApplication1\bin\Deb
 C:\Users\DELL\OneDrive\Desktop\first.net\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\DELL\OneDrive\Desktop\first.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
 C:\Users\DELL\OneDrive\Desktop\first.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Mohtashim\OneDrive\Desktop\assignment-net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
